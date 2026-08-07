@@ -1,0 +1,6 @@
+{
+  "name": "國民小學功課表查詢系統",
+  "description": "提供 1-6 年級、1-8 班全校班級課表與教師個人課表查詢，支援年級班級篩選、教師課表連結、課表編輯、PDF 匯出與美觀列印功能。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
